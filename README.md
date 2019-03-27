@@ -1,4 +1,3 @@
-# Data sets for data visulization projects
+# ML Projects
 
-* [BuzzFeed News](https://github.com/BuzzFeedNews)
-* [FiveThirtyEight](https://github.com/fivethirtyeight)
+### [Data sets](https://github.com/JDSRAO/Analytics-ML/blob/master/ML.NET/Data/Data%20Set%20Info.md)
