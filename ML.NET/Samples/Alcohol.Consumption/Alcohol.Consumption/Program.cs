@@ -6,7 +6,7 @@ namespace Alcohol.Consumption
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //var context = 
 
             Console.ReadKey();
         }
