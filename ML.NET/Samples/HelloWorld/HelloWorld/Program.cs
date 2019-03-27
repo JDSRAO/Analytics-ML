@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.ML;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            // STEP 2: Create a ML.NET environment
+            var mlContext = new MLContext();
         }
     }
 }
