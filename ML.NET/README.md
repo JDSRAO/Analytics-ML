@@ -1,4 +1,1 @@
-# Data sets for data visulization projects
-
-* [BuzzFeed News](https://github.com/BuzzFeedNews)
-* [FiveThirtyEight](https://github.com/fivethirtyeight)
+# ML Sample projects using [ML.NET ](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
