@@ -7,8 +7,8 @@ print(list[:-3])
 print(list[-2:])
 print(list[-2:-3])
 
-# for (i=0; i<len(list); i++):
-#     print(list[i])
+for i in list:
+    print(i)
 
 newList = [i*i for i in range(5)]
 print(newList)

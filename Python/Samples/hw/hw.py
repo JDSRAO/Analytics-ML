@@ -1,7 +1,9 @@
 #from hw-isEvenNumberFunction import *
-import IsEvenNumber from ./hw-function-isEvenNumber
+#import IsEvenNumber from ./hw-function-isEvenNumber
+
+import hwfunctions as f
 
 print('hello world')
 
-print(IsEvenNumber(2))
+print(f.IsEvenNumber(2))
 
