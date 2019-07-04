@@ -1,5 +1,5 @@
 # ML Projects
-This repository contains sample ML projects created using ML.NET and Python
+This repository contains sample ML projects implemented using ML.NET and Python
 
 ### ML.NET Projects
 * Hello World 
