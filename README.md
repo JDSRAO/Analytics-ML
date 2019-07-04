@@ -8,6 +8,7 @@ This repository contains sample ML projects created using ML.NET and Python
 
 
 ### Python Projects
+* Hello World
 
 ## License
 Please refer [here](LICENSE) for license information
