@@ -1,8 +1,8 @@
 # Alcohol Consumption 
 
-| Data Type | Scenario | ML Task | Algorithm |
-|-----------|-----------|-----------|-----------|   
-| .csv file | Scenario | ML Task | Algorithm |
+| Status | Data Type | Scenario | ML Task | Algorithm |
+|-----------|-----------|-----------|-----------|-----------|   
+| In progress | .csv file | Scenario | ML Task | Algorithm |
 
 ## Problem
 [Dear Mona Followup: Where Do People Drink The Most Beer, Wine And Spirits?](https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/)
