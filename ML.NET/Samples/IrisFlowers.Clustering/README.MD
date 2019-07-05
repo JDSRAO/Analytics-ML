@@ -1,8 +1,11 @@
 # IRIS Flower Clustering Project
-This project learns and generated a ML model which can predict the type of the IRIS flower.
 
-### Data Set
-Please click here for the [data set](https://github.com/JDSRAO/Analytics-ML/blob/master/ML.NET/Samples/IrisFlowers.Clustering/IrisFlowers.Clustering/Data/iris.data)
+| Status | Data Type | Scenario | ML Task | Algorithm |
+|-----------|-----------|-----------|-----------|-----------|   
+| In progress | .csv file | Scenario | ML Task | Algorithm |
+
+## Problem
+This project learns and generated a ML model which can predict the type of the IRIS flower.
 
 ### Features
 * Sepal Length
@@ -14,3 +17,12 @@ Please click here for the [data set](https://github.com/JDSRAO/Analytics-ML/blob
 * Iris-setosa
 * Iris-versicolor
 * Iris-virginica
+
+## DataSet
+Please click here for the [data set](https://github.com/JDSRAO/Analytics-ML/blob/master/ML.NET/Samples/IrisFlowers.Clustering/IrisFlowers.Clustering/Data/iris.data)
+
+
+
+
+
+
