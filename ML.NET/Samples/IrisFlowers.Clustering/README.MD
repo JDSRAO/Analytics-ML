@@ -2,7 +2,7 @@
 
 | Status | Data Type | Scenario | ML Task | Algorithm |
 |-----------|-----------|-----------|-----------|-----------|   
-| In progress | .csv file | Scenario | Clustering | K-means++ |
+| Completed | .csv file | Scenario | Clustering | K-means++ |
 
 ## Problem
 This project learns and generated a ML model which can predict the type of the IRIS flower.
