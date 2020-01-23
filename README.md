@@ -1,4 +1,4 @@
-# ML Projects
+# Machine Learning(ML) Projects
 This repository contains ML projects implemented using ML.NET and Python
 
 ### ML.NET Projects
